@@ -1,11 +1,11 @@
 [
    {
     "id": "rules",
-    "translation": "Rules"
+    "translation": "กฎระเบียบ"
    },
    {
     "id": "no_cp",
-    "translation": "No child pornography (lolicon doesn't count)"
+    "translation": "ไม่มีภาพอนาจารของเด็ก (lolicon ไม่นับ)"
   },
   {
     "id": "asia",
@@ -157,7 +157,7 @@
   },
   {
     "id": "torrents_uploaded",
-    "translation": "Torrents uploaded"
+    "translation": "ทอร์เรนท์ที่อัพโหลด"
   },
   {
     "id": "category",
@@ -529,7 +529,7 @@
   },
   {
     "id": "delete_all",
-    "translation": "Delete all"
+    "translation": "ลบทั้งหมด"
   },
   {
     "id": "filter_remakes",
@@ -545,7 +545,7 @@
   },
   {
     "id": "hash",
-    "translation": "Hash"
+    "translation": "แฮช"
   },
   {
     "id": "description",
@@ -793,7 +793,7 @@
   },
   {
     "id": "unknown",
-    "translation": "Unknown"
+    "translation": "ไม่ทราบ"
   },
   {
     "id": "last_scraped",
@@ -825,7 +825,7 @@
   },
   {
     "id": "torrent_uploaded",
-    "translation": "torrent uploaded successfully!"
+    "translation": "อัพโหลดทอร์เรนต์สำเร็จ!"
   },
   {
     "id": "preferences",
@@ -1325,111 +1325,111 @@
   },
   {
     "id": "torrent_language",
-    "translation": "Torrent language"
+    "translation": "ภาษาทอร์เรนต์"
   },
   {
     "id": "language_en-us_name",
-    "translation": "English"
+    "translation": "อังกฤษ"
   },
   {
     "id": "language_ca-es_name",
-    "translation": "Catalan"
+    "translation": "คาตาลัน"
   },
   {
     "id": "language_de-de_name",
-    "translation": "German"
+    "translation": "เยอรมัน"
   },
   {
     "id": "language_es-es_name",
-    "translation": "Spanish"
+    "translation": "สเปน"
   },
   {
     "id": "language_es-mx_name",
-    "translation": "Spanish (LATAM)"
+    "translation": "สเปน (LATAM)"
   },
   {
     "id": "language_fr-fr_name",
-    "translation": "French"
+    "translation": "ฝรั่งเศส"
   },
   {
     "id": "language_hu-hu_name",
-    "translation": "Hungarian"
+    "translation": "ฮังการี"
   },
   {
     "id": "language_is-is_name",
-    "translation": "Icelandic"
+    "translation": "ไอซ์แลนด์"
   },
   {
     "id": "language_it-it_name",
-    "translation": "Italian"
+    "translation": "อิตาลี"
   },
   {
     "id": "language_ja-jp_name",
-    "translation": "Japanese"
+    "translation": "ญี่ปุ่น"
   },
   {
     "id": "language_ko-kr_name",
-    "translation": "Korean"
+    "translation": "เกาหลี"
   },
   {
     "id": "language_nb-no_name",
-    "translation": "Norwegian"
+    "translation": "นอร์เวย์"
   },
   {
     "id": "language_nl-nl_name",
-    "translation": "Dutch"
+    "translation": "ดัตช์"
   },
   {
     "id": "language_pt-br_name",
-    "translation": "Portuguese (Brazil)"
+    "translation": "โปรตุเกส (บราซิล)"
   },
   {
     "id": "language_pt-pt_name",
-    "translation": "Portuguese (Portugal)"
+    "translation": "โปรตุเกส (โปรตุเกส)"
   },
   {
     "id": "language_ro-ro_name",
-    "translation": "Romanian"
+    "translation": "โรมาเนีย"
   },
   {
     "id": "language_ru-ru_name",
-    "translation": "Russian"
+    "translation": "รัสเซีย"
   },
   {
     "id": "language_sv-se_name",
-    "translation": "Swedish"
+    "translation": "สวีเดน"
   },
   {
     "id": "language_th-th_name",
-    "translation": "Thai"
+    "translation": "ไทย"
   },
   {
     "id": "language_zh-cn_name",
-    "translation": "Simplified Chinese"
+    "translation": "จีนตัวย่อ"
   },
   {
     "id": "language_zh-tw_name",
-    "translation": "Traditional Chinese"
+    "translation": "ภาษาจีนดั้งเดิม"
   },
   {
     "id": "language_other_name",
-    "translation": "Other"
+    "translation": "อื่นๆ"
   },
   {
     "id": "language_multiple_name",
-    "translation": "Multiple Languages"
+    "translation": "หลายภาษา"
   },
   {
     "id": "activity_list",
-    "translation": "Activity List"
+    "translation": "รายการกิจกรรม"
   },
   {
     "id": "activities",
-    "translation": "Activities"
+    "translation": "กิจกรรม"
   },
   {
     "id": "filter",
-    "translation": "Filter"
+    "translation": "ตัวกรอง"
   },
   {
     "id": "error_min_length",
@@ -1617,47 +1617,47 @@
   },
   {
     "id": "refine_search",
-    "translation": "Refine your search"
+    "translation": "ปรับแต่งการค้นหาของคุณ"
   },
   {
     "id": "between",
-    "translation": "Between"
+    "translation": "ระหว่าง"
   },
   {
     "id": "and",
-    "translation": "and"
+    "translation": "และ"
   },
   {
     "id": "days",
-    "translation": "Days"
+    "translation": "วัน"
   },
   {
     "id": "months",
-    "translation": "Months"
+    "translation": "เดือน"
   },
   {
     "id": "years",
-    "translation": "Years"
+    "translation": "ปี"
   },
   {
     "id": "refine",
-    "translation": "Refine"
+    "translation": "ปรับแต่ง"
   },
   {
     "id": "large",
-    "translation": "large."
+    "translation": "ใหญ่."
   },
   {
     "id": "optional",
-    "translation": "Optional"
+    "translation": "ไม่จำเป็น"
   },
   {
     "id": "search_for",
-    "translation": "Search for"
+    "translation": "ค้นหา"
   },
   {
     "id": "show",
-    "translation": "Show"
+    "translation": "แสดง"
   },
   {
     "id": "username_taken",
@@ -1669,11 +1669,11 @@
   },
   {
     "id": "user_not_found",
-    "translation": "User not found"
+    "translation": "ไม่พบชื่อผู้ใช้"
   },
   {
     "id": "incorrect_password",
-    "translation": "Password Incorrect"
+    "translation": "รหัสผ่านไม่ถูกต้อง"
   },
   {
     "id": "password_error_generating",
@@ -1685,11 +1685,11 @@
   },
   {
     "id": "no_username_password",
-    "translation": "No username/password entered"
+    "translation": "ไม่มีการป้อนชื่อผู้ใช้/รหัสผ่าน"
   },
   {
     "id": "account_banned",
-    "translation": "Account banned"
+    "translation": "บัญชีถูกแบน"
   },
   {
     "id": "account_need_activation",
@@ -1889,7 +1889,7 @@
   },
   {
     "id": "owner",
-    "translation": "Owner"
+    "translation": "เจ้าของ"
   },
   {
     "id": "policy_uri",
@@ -1913,11 +1913,11 @@
   },
   {
     "id": "add",
-    "translation": "Add"
+    "translation": "เพิ่ม"
   },
   {
     "id": "remove",
-    "translation": "Remove"
+    "translation": "ลบ"
   },
   {
     "id": "secret",
@@ -1925,19 +1925,19 @@
   },
   {
     "id": "torrent_age",
-    "translation": "{1} days {2} hours ago"
+    "translation": "{1} วัน {2} ชั่วโมงที่ผ่านมา"
   },
   {
     "id": "wrong_tag_type",
-    "translation": "The tag type selected doesn't exist"
+    "translation": "ประเภทแท็กที่เลือกไม่มีอยู่"
   },
   {
     "id": "add_tag",
-    "translation": "Add a Tag"
+    "translation": "เพิ่มแท็ก"
   },
   {
     "id": "tagtype",
-    "translation": "Tag Type"
+    "translation": "ประเภทแท็ก"
   },
   {
     "id": "tagtype_anidbid",
@@ -1957,11 +1957,11 @@
   },
   {
     "id": "announcements",
-    "translation": "Announcements"
+    "translation": "ประกาศ"
   },
   {
     "id": "message",
-    "translation": "Message"
+    "translation": "ข่าวสาร"
   },
   {
     "id": "duration",
